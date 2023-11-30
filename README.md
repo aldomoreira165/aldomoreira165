@@ -5,7 +5,9 @@
         Estudiante de Ingeniería en Ciencias y Sistemas y con un gran interés en el desarrollo web.👨‍💻
     </h3>
 </div>
+
 ---
+
 <div align="left">
     <h3>🛠 Lenguajes y Herramientas</h3>
     <div>
