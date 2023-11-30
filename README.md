@@ -5,3 +5,11 @@
         Estudiante de Ingeniería en Ciencias y Sistemas y con un gran interés en el desarrollo web.👨‍💻
     </h3>
 </div>
+---
+<div align="left">
+    <h3>🛠 Lenguajes y Herramientas</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
+        alt="HTML5" width="40" height="40">
+    </div>
+</div>
