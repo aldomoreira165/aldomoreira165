@@ -25,5 +25,11 @@
         alt="Bootstrap" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"
         alt="JQuery" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
+        alt="Java" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"
+        alt="Python" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg"
+        alt="Go" width="40" height="40">
     </div>
 </div>
