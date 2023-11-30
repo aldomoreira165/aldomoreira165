@@ -17,5 +17,13 @@
         alt="JavaScript" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
         alt="CSS3" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
+        alt="NodeJS" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+        alt="React" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
+        alt="Bootstrap" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"
+        alt="JQuery" width="40" height="40">
     </div>
 </div>
