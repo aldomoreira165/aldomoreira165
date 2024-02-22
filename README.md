@@ -19,6 +19,8 @@
         alt="CSS3" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
         alt="SASS" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+        alt="PHP" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
         alt="NodeJS" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
