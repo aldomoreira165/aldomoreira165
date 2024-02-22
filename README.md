@@ -29,9 +29,9 @@
         alt="React" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
         alt="Bootstrap" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
         alt="Java" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
         alt="Python" width="40" height="40">
     </div>
 </div>
