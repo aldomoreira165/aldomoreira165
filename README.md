@@ -21,19 +21,17 @@
         alt="SASS" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
         alt="PHP" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="MySQL" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="NodeJS" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
         alt="React" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
         alt="Bootstrap" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"
-        alt="JQuery" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
         alt="Java" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"
         alt="Python" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg"
-        alt="Go" width="40" height="40">
     </div>
 </div>
