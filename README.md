@@ -19,19 +19,25 @@
         alt="CSS3" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="NodeJS" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
-        alt="SASS" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
         alt="Bootstrap" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
         alt="React" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
-        alt="PHP" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
         alt="Java" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
         alt="Python" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
         alt="MySQL" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="MongoDB" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
+        alt="Docker" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg"
+        alt="Kubernetes" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"
+        alt="GCP" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        alt="AWS" width="40" height="40">
     </div>
 </div>
