@@ -3,7 +3,7 @@
 </div>
 
 ---
-
+<!--
 <div align="left">
     <h3>🛠 Lenguajes y Herramientas</h3>
     <div>
@@ -37,3 +37,4 @@
         alt="AWS" width="40" height="40">
     </div>
 </div>
+--!>
